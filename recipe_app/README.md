@@ -5,9 +5,12 @@ Welcome to the **Recipe App UI**! This project showcases a visually appealing an
 ---
 
 ## 🖼️ App UI Screenshot
-![Recipe App UI Screenshot](./examples/img-1.png){ width=400px }
-![Recipe App UI Screenshot](./examples/img-2.png){ width=400px }
-![Recipe App UI Screenshot](./examples/img-3.png){ width=400px }
+
+<img src="./examples/img-1.png" alt="Recipe App UI Screenshot" width="400" />
+
+<img src="./examples/img-2.png" alt="Recipe App UI Screenshot" width="400" />
+
+<img src="./examples/img-3.png" alt="Recipe App UI Screenshot" width="400" />
 
 ---
 
