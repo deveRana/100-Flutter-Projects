@@ -20,7 +20,8 @@ This repository contains a collection of 100 different Flutter projects, each de
 Below is the list of projects I’ve worked on. Each project includes a link to its corresponding app UI screenshot. 📸  
 
 1. **[Recipe APP UI](recipe_app/README.md)** : Recipe App UI 🍳  
-2. _(Upcoming Projects...)_
+2. **[Recipe APP UI](blinkit_app/README.md)** : Recipe App UI 🍳 
+
 
 Each project is contained within its own directory and includes:  
 - 📁 `lib/`: Flutter app code  
